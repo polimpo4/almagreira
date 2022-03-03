@@ -1,0 +1,80 @@
+.description_tab {
+    padding: 6px 16px !important;
+}
+.description_tab a{
+    padding: 6px 16px !important;
+}
+.woocommerce-tabs ul.tabs li a{
+	background:#e1dbe0;
+	border:none !important;
+}
+.woocommerce #content div.product .woocommerce-tabs ul.tabs li a, .woocommerce div.product .woocommerce-tabs ul.tabs li a, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li a, .woocommerce-page div.product .woocommerce-tabs ul.tabs li a{ background:none !important}
+.cart .quantity input[type="number"]{ width:31px;}
+
+.woocommerce-main-image img{
+	width:100% !important;
+}
+
+.cs_shop_wrap .images a.woocommerce-main-image{ 
+	padding:5px;
+}
+#main .cs_shop_wrap .images a.woocommerce-main-image .zoom{
+	padding-top:18px;
+}
+.woocommerce #review_form #respond p, .woocommerce-page #review_form #respond p{
+	margin-right:8px !important;
+}
+.product .summary h1{ text-align:left;}
+.woocommerce-review-link {
+    float: left;
+}
+.woocommerce .woocommerce-ordering select, .woocommerce-page .woocommerce-ordering select {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    color: #545454;
+    padding: 5px;
+}
+.summary.entry-summary > div {
+    position: relative;
+}
+
+.product .summary div p{
+	text-align:left;
+}
+div.product p.price, div.product p.price span.amount{ border:0;}
+.value > select {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    height: 26px;
+    padding: 0 5px;
+}
+.summary .variations .label{
+	padding-top:6px;
+	float:left; 
+}
+.summary .variations .single_variation_wrap{
+	display:block !important;	
+}
+.summary .price del{
+	margin-right:10px;
+	float: left;
+}
+.woocommerce ul.products li.first, .woocommerce-page ul.products li.first{
+	clear:unset;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
